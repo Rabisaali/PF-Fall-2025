@@ -14,7 +14,7 @@
 3. Git commit
 4. push
 5. pull\
-~~By Mistake~~\
+~~By Mistake~~
 - [x] complete
 - [ ] not done html
 - [x] done js\
